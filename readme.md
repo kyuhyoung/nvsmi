@@ -2,6 +2,7 @@
 
 * As a command line tool
 
+
 ```sh
 $ python nvsmi.py
 Thu Jan 24 15:41:40 2019
